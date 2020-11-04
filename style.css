@@ -11,4 +11,9 @@
 #menu_azienda{
   display: none;
   border: 1px solid black;
+  position: absolute;
+  top: 10px;
+  right: 380px;
+  width: 100px;
+  height: 160px;
 }
