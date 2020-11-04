@@ -7,3 +7,8 @@
 .nav_bar img{
   height: 40px;
 }
+
+#menu_azienda{
+  display: none;
+  border: 1px solid black;
+}
